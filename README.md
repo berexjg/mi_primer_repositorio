@@ -3,4 +3,4 @@
 cambio de prueba
 
 git config --global user.name "berexjg"
-git config --global user.email "vjimenez.jacinto@gmail.com"
+git config --global user.email "jimenaberenice@ciencias.unam.mx"
